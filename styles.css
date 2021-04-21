@@ -16,7 +16,7 @@ p {
 span {
     border: 3px dotted brown;
 }
-a:link {
+a {
     border: 2px dashed coral;
 }
 .radius {
