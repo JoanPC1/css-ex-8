@@ -1,24 +1,24 @@
 * {
-border: 1px solid;
+border-width: 1px; border-style: solid; 
 }
 html {
-    border: purple;
+    border-color: purple;
 }
 body {
-    border: red;
+    border-color: red;
 }
 div {
-    border: blue;
+    border-color: blue;
 }
 p {
-    border: 2px green;
+    border-width: 2px; border-color: green;
 }
 span {
-    border: 3px dotted brown;
+    border-width: 3px; border-style: dotted; border-color: brown;
 }
 a {
-    border: 2px dashed coral;
+    border-width: 2px; border-style: dashed; border-color: coral;
 }
 .radius {
-    border: 2px orange; border-radius: 20px;
+    border-width: 2px; border-color: orange; border-radius: 20px;
 }
